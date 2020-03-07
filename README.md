@@ -8,8 +8,9 @@ https://ieeexplore.ieee.org/document/8730354
 These codes work on Alloy Analyzer: 
 https://alloytools.org/
 
-By installing Alloy at first, you can execute the codes. 
-I recommend you to check the availability of the source code by D. Ahkawe (https://github.com/devd/websecmodel) because the code in this repository is an extension of his code.
+By installing Alloy at first, you can execute our codes. 
+Recommend you to check the availability of the source code by D. Ahkawe (https://github.com/devd/websecmodel) because the codes in this repository are extension of the codes of Ahkawe. 
+After checking the execution of Ahkawe's codes, replace "declarations.als" with our "declarations.als". 
 
 The role of each code is as follows: 
 cache.als: the code for attacks such as web cache poisoning and web cache deception. 
@@ -17,3 +18,5 @@ declarations(existing).als: identical to the original code by Ahkawe.
 declarations.als: our extension for the proposed syntax. 
 test_ccheader.als: refenrece implementation for cache header.
 test_verification.als: reference implementation for verification of cache header.
+
+Png.files are examples of output of attacks for our codes. 
