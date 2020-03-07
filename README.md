@@ -1,8 +1,8 @@
 # websecmodel
-This is a copied repository of https://github.com/sho-rong/webmodel as instead of the corresponding author of the following paper.
-Authors: Shimamoto Hayato, Naoto Yanai, Shingo Okamura, Jason Paul Cruz, Shouei Ou, Takao Okubo
-Title: Towards Further Formal Foundation of Web Security: Expression of Temporal Logic in Alloy and Its Application to a Security Model With Cache
-Journal: IEEE Access (Volume: 7, Pages: 74941 - 74960)
+This is a copied repository of https://github.com/sho-rong/webmodel as instead of the corresponding author of the following paper. // 
+Authors: Shimamoto Hayato, Naoto Yanai, Shingo Okamura, Jason Paul Cruz, Shouei Ou, Takao Okubo//
+Title: Towards Further Formal Foundation of Web Security: Expression of Temporal Logic in Alloy and Its Application to a Security Model With Cache//
+Journal: IEEE Access (Volume: 7, Pages: 74941 - 74960)//
 https://ieeexplore.ieee.org/document/8730354
 
 These codes work on Alloy Analyzer: 
